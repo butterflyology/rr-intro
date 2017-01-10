@@ -38,7 +38,7 @@ You could just type into the command prompt...
  - ... but that doesn't help much with automation.
 
 #### A better solution
-- With RStudio you can combine your programming and your documentation.
+- With `RStudio` you can combine your programming and your documentation.
 - RStudio gives you a single environment to combine your documentation and your analysis - It runs on top of `R` - Gives you a bunch of really cool features that we'll explore throughout the workshop.
 
 ## R Packages
